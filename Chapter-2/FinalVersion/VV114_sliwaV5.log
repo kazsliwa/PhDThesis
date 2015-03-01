@@ -1,0 +1,442 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 SEP 2013 15:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**VV114_sliwaV5.tex
+(./VV114_sliwaV5.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(./aastex.cls
+Document Class: aastex 2005/06/22 5.2/AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 83.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/natbib.sty
+Package: natbib 1998/07/14 6.8c (PWD)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 467.
+\c@NAT@ctr=\count88
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box26
+\c@editornote=\count89
+\c@cureqno=\count90
+\tnotemarkskip=\skip45
+\@abovenoteskip=\dimen106
+\pt@box=\box27
+\pt@width=\dimen107
+\pt@line=\count91
+\pt@column=\count92
+\pt@nlines=\count93
+\pt@ncol=\count94
+\pt@page=\count95
+\tabbaseskip=\dimen108
+\pt@tmpcapwidth=\dimen109
+\spew@tblnotesbox=\box28
+\restof@tblnotesbox=\box29
+\noteheight=\dimen110
+\pt@tabnoteminht=\dimen111
+\firsttabskip=\dimen112
+\captionbox=\box30
+\pt@reduceline=\dimen113
+\extra@vspace=\dimen114
+\c@plate=\count96
+\my@footins=\box31
+)
+
+LaTeX Warning: Unused global option(s):
+    [preprint1].
+
+No file VV114_sliwaV5.aux.
+\openout1 = `VV114_sliwaV5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+AAS manuscript substyle, v5.2 <12 Dec 2003>.
+Invalid UTF-8 byte or sequence at line 43 replaced by U+FFFD.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 56.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no � in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[][]\OT1/cmr/m/n/12 Harvard-Smithsonian Cen-ter for As-tro-physics, Cam-bridge,
+ MA 02138;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[][]\OT1/cmr/m/n/12 Department of As-tron-omy, Uni-ver-sity of Mas-sachusetts, 
+Amherst, MA
+ []
+
+[1
+
+] [2
+
+]
+
+Package natbib Warning: Citation `1996ApJ...466..561M' undefined on input line 
+64.
+
+
+Package natbib Warning: Citation `2013ApJ...762L..16M' on page 3 undefined on i
+nput line 64.
+
+
+Package natbib Warning: Citation `1978ApJ...222..881G' undefined on input line 
+64.
+
+
+Package natbib Warning: Citation `2011ApJ...743...94R' undefined on input line 
+64.
+
+
+Package natbib Warning: Citation `2004ApJ...616L...1H' undefined on input line 
+64.
+
+
+Package natbib Warning: Citation `2012ApJ...751...10P' undefined on input line 
+66.
+
+
+Package natbib Warning: Citation `1991ApJ...382L..75H' undefined on input line 
+66.
+
+
+Package natbib Warning: Citation `2009ApJ...693...56M' undefined on input line 
+66.
+
+[3
+
+]
+
+Package natbib Warning: Citation `2003AJ....126.1607S' undefined on input line 
+68.
+
+
+Package natbib Warning: Citation `1999AJ....118..139F' undefined on input line 
+68.
+
+
+Package natbib Warning: Citation `2012ApJS..203....9U' undefined on input line 
+68.
+
+
+Package natbib Warning: Citation `1994ApJ...430L.109Y' on page 4 undefined on i
+nput line 68.
+
+
+Package natbib Warning: Citation `2002A&A...391..417L' on page 4 undefined on i
+nput line 68.
+
+
+Package natbib Warning: Citation `2000AJ....119..991S' on page 4 undefined on i
+nput line 68.
+
+
+Package natbib Warning: Citation `1994AJ....107..920K' on page 4 undefined on i
+nput line 68.
+
+
+Package natbib Warning: Citation `2013PASJ...65L...7I' undefined on input line 
+68.
+
+
+Package natbib Warning: Citation `2008ApJS..178..189W' undefined on input line 
+70.
+
+
+Package natbib Warning: Citation `2009ApJ...695.1537I' undefined on input line 
+70.
+
+
+Package natbib Warning: Citation `2012ApJ...753...46S' undefined on input line 
+70.
+
+
+Package natbib Warning: Citation `2007A&A...468..627V' on page 4 undefined on i
+nput line 70.
+
+[4] [5] [6]
+
+Package natbib Warning: Citation `2008ASPC..394..650C' undefined on input line 
+87.
+
+
+Package natbib Warning: Citation `2002ASPC..278..375S' undefined on input line 
+92.
+
+
+Package natbib Warning: Citation `1999PhDT........21S' undefined on input line 
+92.
+
+[7] [8] [9] [10]
+
+Package natbib Warning: Citation `1990ApJ...357..477L' undefined on input line 
+113.
+
+
+Package natbib Warning: Citation `2010A&A...518L..37P' undefined on input line 
+118.
+
+
+Package natbib Warning: Citation `2003ApJ...587..171W' undefined on input line 
+118.
+
+
+Package natbib Warning: Citation `2011ApJ...731...83K' undefined on input line 
+118.
+
+
+Package natbib Warning: Citation `2012ApJ...753...70K' undefined on input line 
+118.
+
+[11]
+
+Package natbib Warning: Citation `1997ApJ...483..210W' undefined on input line 
+126.
+
+[12]
+
+Package natbib Warning: Citation `1995A&A...300..369A' undefined on input line 
+139.
+
+[13] [14]
+
+Package natbib Warning: Citation `2004ApJ...616L..63I' undefined on input line 
+147.
+
+
+Package natbib Warning: Citation `1994ARA&A..32..191W' undefined on input line 
+152.
+
+
+Package natbib Warning: Citation `1992A&A...264...55C' undefined on input line 
+152.
+
+[15]
+
+Package natbib Warning: Citation `2010A&A...522A..62M' undefined on input line 
+154.
+
+
+Package natbib Warning: Citation `2010A&A...516A.111H' undefined on input line 
+154.
+
+
+Package natbib Warning: Citation `2009ApJ...692.1432G' undefined on input line 
+154.
+
+
+Package natbib Warning: Citation `2003ApJ...587..171W' undefined on input line 
+157.
+
+
+Package natbib Warning: Citation `1998ApJ...507..615D' undefined on input line 
+157.
+
+[16] [17] [18] [19]
+File: fig1a.eps Graphic file (type eps)
+ <fig1a.eps>
+File: fig1b.eps Graphic file (type eps)
+ <fig1b.eps>
+File: fig1c.eps Graphic file (type eps)
+ <fig1c.eps>
+File: fig1d.eps Graphic file (type eps)
+ <fig1d.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig2.ps Graphic file (type eps)
+<fig2.ps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig3f.eps Graphic file (type eps)
+<fig3f.eps>
+File: fig3a.eps Graphic file (type eps)
+ <fig3a.eps>
+File: fig3g.eps Graphic file (type eps)
+ <fig3g.eps>
+File: fig3b.eps Graphic file (type eps)
+ <fig3b.eps>
+Overfull \hbox (34.14816pt too wide) in paragraph at lines 203--207
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig3c.eps Graphic file (type eps)
+<fig3c.eps>
+File: fig3d.eps Graphic file (type eps)
+ <fig3d.eps>
+File: fig3e.eps Graphic file (type eps)
+ <fig3e.eps>
+Overfull \hbox (37.31003pt too wide) in paragraph at lines 213--218
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig4_cosled.eps Graphic file (type eps)
+<fig4_cosled.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig5a_Tempdist.eps Graphic file (type eps)
+<fig5a_Tempdist.eps>
+File: fig5b_Densdist.eps Graphic file (type eps)
+ <fig5b_Densdist.eps>
+File: fig5c_BACDdist.eps Graphic file (type eps)
+ <fig5c_BACDdist.eps>
+Overfull \hbox (70.58546pt too wide) in paragraph at lines 231--234
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig6_contour.eps Graphic file (type eps)
+<fig6_contour.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (63.16263pt too wide) detected at line 262
+ [] 
+ []
+
+
+Overfull \hbox (63.16263pt too wide) detected at line 268
+ [] 
+ []
+
+Table 2 has been set to width 532.91762pt
+Table 3 has been set to width 563.00577pt
+
+Overfull \hbox (51.08757pt too wide) detected at line 299
+ [] 
+ []
+
+
+Overfull \hbox (51.08757pt too wide) detected at line 304
+ [] 
+ []
+
+Table 4 has been set to width 520.84256pt
+Table 5 has been set to width 305.23596pt
+[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31
+
+] [32]
+
+Package natbib Warning: There were undefined citations.
+
+[33] (./VV114_sliwaV5.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1799 strings out of 493938
+ 20935 string characters out of 6148857
+ 90147 words of memory out of 5000000
+ 5102 multiletter control sequences out of 15000+600000
+ 13296 words of font info for 55 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 32i,11n,28p,1714b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on VV114_sliwaV5.pdf (33 pages).

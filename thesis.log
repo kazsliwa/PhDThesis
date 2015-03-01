@@ -1,0 +1,2093 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  19 JAN 2015 20:21
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./macthesis.cls
+Document Class: macthesis 2005/05/24 v2.3.0 macthesis class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+
+Package macthesis Warning: Unknown option `twoside'. Ignoring on input line 64.
+
+
+
+Package macthesis Warning: Unknown option `letterpaper'. Ignoring on input line
+ 64.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/setspace.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip46
+\cftbeforetoctitleskip=\skip47
+\cftaftertoctitleskip=\skip48
+\cftbeforepartskip=\skip49
+\cftpartnumwidth=\skip50
+\cftpartindent=\skip51
+\cftbeforechapskip=\skip52
+\cftchapindent=\skip53
+\cftchapnumwidth=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
+\c@lofdepth=\count91
+\c@lotdepth=\count92
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/fancyhdr.sty
+\fancy@headwidth=\skip80
+\f@ncyO@elh=\skip81
+\f@ncyO@erh=\skip82
+\f@ncyO@olh=\skip83
+\f@ncyO@orh=\skip84
+\f@ncyO@elf=\skip85
+\f@ncyO@erf=\skip86
+\f@ncyO@olf=\skip87
+\f@ncyO@orf=\skip88
+)
+\mylength=\skip89
+\tempbox=\box26
+\mac@sigoptionskip=\skip90
+\mac@sigafteroptionskip=\skip91
+\mac@intersigspace=\skip92
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/deluxetable.sty
+Package: deluxetable 
+\pt@box=\box27
+\pt@width=\dimen105
+\pt@line=\count93
+\pt@column=\count94
+\pt@nlines=\count95
+\pt@ncol=\count96
+\pt@page=\count97
+\pt@tmpcapwidth=\dimen106
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/natbib.sty
+Package: natbib 1998/07/14 6.8c (PWD)
+\bibhang=\skip93
+\bibsep=\skip94
+LaTeX Info: Redefining \cite on input line 467.
+\c@NAT@ctr=\count98
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/aastex_hack.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+\c@r@tfl@t=\count100
+\rotFPtop=\skip95
+\rotFPbot=\skip96
+\rot@float@box=\box28
+\rot@mess@toks=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip97
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen109
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip10
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks17
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks18
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks19
+\multlinegap=\skip98
+\multlinetaggap=\skip99
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip100
+\thm@postskip=\skip101
+\thm@headsep=\skip102
+\dth@everypar=\toks26
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen118
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+LaTeX Info: Redefining \bm on input line 203.
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/eqlist.sty
+eqlist.sty by M. Vaeth: Revision 1.2
+Package: eqlist 2001/08/17 v1.2
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/eqparbox.sty
+Package: eqparbox 2001/04/19 v1.00 Equal-widthed parboxes (SDP)
+\eqp@tempdima=\skip103
+\eqp@tempdimb=\skip104
+\eqp@tempdimc=\skip105
+)
+\eql@cnt=\count113
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip106
+\afterepigraphskip=\skip107
+\epigraphwidth=\skip108
+\epigraphrule=\skip109
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
+\c@DefaultLines=\count114
+\DefaultFindent=\dimen119
+\DefaultNindent=\dimen120
+\DefaultSlope=\dimen121
+\L@lbox=\box31
+\L@tbox=\box32
+\c@L@lines=\count115
+\L@Pindent=\dimen122
+\L@Findent=\dimen123
+\L@Nindent=\dimen124
+\L@lraise=\dimen125
+\L@first=\dimen126
+\L@next=\dimen127
+\L@slope=\dimen128
+\L@height=\dimen129
+\LettrineWidth=\dimen130
+
+Loading lettrine.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen131
+)
+(/Users/kazimierzsliwa/Library/texmf/tex/latex/fncychap.sty
+Package: fncychap 2004/09/20 v1.3 LaTeX package (Revised chapters)
+\RW=\skip110
+\mylen=\skip111
+\myhi=\skip112
+\px=\skip113
+\py=\skip114
+\pyy=\skip115
+\pxx=\skip116
+) (./thesis.aux
+(./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux
+
+LaTeX Warning: Label `RatioMaps' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+) (./Chapter-3/Chapter-3.aux
+
+LaTeX Warning: Label `chapter2' multiply defined.
+
+
+LaTeX Warning: Label `SMAmaps' multiply defined.
+
+
+LaTeX Warning: Label `SMAmaps' multiply defined.
+
+) (./Chapter-4/Chapter-4.aux
+
+LaTeX Warning: Label `smasum' multiply defined.
+
+
+LaTeX Warning: Label `chapter2' multiply defined.
+
+))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+ (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen132
+\scratchbox=\box33
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen133
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 230.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 230.
+ [1]
+(./SupplementaryMaterial/DescriptiveNote.tex
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+) [2] (./SupplementaryMaterial/Abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[3]) [4] (./SupplementaryMaterial/Dedication.tex
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <20.74> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 15.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+) [5
+
+] (./SupplementaryMaterial/Co-Authorship.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[6]) (./SupplementaryMaterial/Acknowledgments.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+) [7] (./thesis.toc
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (40.3613pt too wide) detected at line 7
+\OT1/cmr/bx/n/12 Chapter 1 
+ []
+
+
+Overfull \hbox (40.3613pt too wide) detected at line 8
+\OT1/cmr/bx/n/12 Chapter 2 
+ []
+
+[8
+
+]
+Overfull \hbox (40.3613pt too wide) detected at line 25
+\OT1/cmr/bx/n/12 Chapter 3 
+ []
+
+
+Overfull \hbox (40.3613pt too wide) detected at line 35
+\OT1/cmr/bx/n/12 Chapter 4 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [9] (./thesis.lof)
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [10
+
+
+] (./thesis.lot)
+\tf@lot=\write5
+\openout5 = `thesis.lot'.
+
+ [11
+
+
+]
+(./SupplementaryMaterial/ListofAcronyms.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+) [12
+
+
+]
+\openout2 = `Chapter-1/Chapter-1.aux'.
+
+ (./Chapter-1/Chapter-1.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 12.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 12.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)) [1
+
+
+
+]
+\openout2 = `Chapter-2/Chapter-2.aux'.
+
+
+(./Chapter-2/Chapter-2.tex
+Chapter 2.
+[2
+
+
+
+] [3] [4]
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 30.
+ [5] [6] [7] [8] [9] [10] [11] [12] [13]
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 96.
+ [14] [15] [16] [17]
+[18] [19] [20]
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig1a.eps>
+(epstopdf)                    date: 2013-08-27 14:27:35
+(epstopdf)                    size: 2121311 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig1a-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:55:01
+(epstopdf)                    size: 222127 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig1a-ep
+s-converted-to.pdf Chapter-2/Figures/fig1a.eps>
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig1a-eps-converted-to.pdf, id=126, 690.58pt x 575.14874pt>
+File: Chapter-2/Figures/fig1a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig1a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig1a-eps-converted-to.pdf used on i
+nput line 144.
+(pdftex.def)             Requested size: 207.1756pt x 172.54594pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig1b.eps>
+(epstopdf)                    date: 2013-08-27 14:27:44
+(epstopdf)                    size: 1881743 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig1b-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:55:06
+(epstopdf)                    size: 219384 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig1b-ep
+s-converted-to.pdf Chapter-2/Figures/fig1b.eps>
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig1b-eps-converted-to.pdf, id=127, 690.58pt x 575.14874pt>
+File: Chapter-2/Figures/fig1b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig1b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig1b-eps-converted-to.pdf used on i
+nput line 144.
+(pdftex.def)             Requested size: 207.1756pt x 172.54594pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig1c.eps>
+(epstopdf)                    date: 2013-08-27 15:12:14
+(epstopdf)                    size: 1063460 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig1c-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:55:10
+(epstopdf)                    size: 210221 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig1c-ep
+s-converted-to.pdf Chapter-2/Figures/fig1c.eps>
+(epstopdf)             \includegraphics on input line 145.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig1c-eps-converted-to.pdf, id=128, 690.58pt x 575.14874pt>
+File: Chapter-2/Figures/fig1c-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig1c-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig1c-eps-converted-to.pdf used on i
+nput line 145.
+(pdftex.def)             Requested size: 207.1756pt x 172.54594pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig1d.eps>
+(epstopdf)                    date: 2013-08-27 15:11:52
+(epstopdf)                    size: 883296 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig1d-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:55:15
+(epstopdf)                    size: 103125 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig1d-ep
+s-converted-to.pdf Chapter-2/Figures/fig1d.eps>
+(epstopdf)             \includegraphics on input line 145.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig1d-eps-converted-to.pdf, id=129, 690.58pt x 575.14874pt>
+File: Chapter-2/Figures/fig1d-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig1d-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig1d-eps-converted-to.pdf used on i
+nput line 145.
+(pdftex.def)             Requested size: 207.1756pt x 172.54594pt.
+
+Overfull \hbox (63.0012pt too wide) in paragraph at lines 143--147
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Chapter-2/Figures/fig2.pdf, id=130, 794.97pt x 614.295pt>
+File: Chapter-2/Figures/fig2.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig2.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig2.pdf used on input line 153.
+(pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3f.eps>
+(epstopdf)                    date: 2013-08-27 15:35:22
+(epstopdf)                    size: 397473 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3f-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:23
+(epstopdf)                    size: 58706 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3f-ep
+s-converted-to.pdf Chapter-2/Figures/fig3f.eps>
+(epstopdf)             \includegraphics on input line 161.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3f-eps-converted-to.pdf, id=131, 644.4075pt x 537.00626pt
+>
+File: Chapter-2/Figures/fig3f-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter-2/Figures/fig3f-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3f-eps-converted-to.pdf used on i
+nput line 161.
+(pdftex.def)             Requested size: 225.546pt x 187.955pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3a.eps>
+(epstopdf)                    date: 2013-08-27 15:38:34
+(epstopdf)                    size: 257460 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3a-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:28
+(epstopdf)                    size: 50144 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3a-ep
+s-converted-to.pdf Chapter-2/Figures/fig3a.eps>
+(epstopdf)             \includegraphics on input line 161.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3a-eps-converted-to.pdf, id=132, 644.4075pt x 537.00626pt
+>
+File: Chapter-2/Figures/fig3a-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter-2/Figures/fig3a-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3a-eps-converted-to.pdf used on i
+nput line 161.
+(pdftex.def)             Requested size: 225.546pt x 187.955pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3g.eps>
+(epstopdf)                    date: 2013-09-02 19:14:23
+(epstopdf)                    size: 349711 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3g-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:32
+(epstopdf)                    size: 54199 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3g-ep
+s-converted-to.pdf Chapter-2/Figures/fig3g.eps>
+(epstopdf)             \includegraphics on input line 162.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3g-eps-converted-to.pdf, id=133, 649.42625pt x 537.00626p
+t>
+File: Chapter-2/Figures/fig3g-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter-2/Figures/fig3g-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3g-eps-converted-to.pdf used on i
+nput line 162.
+(pdftex.def)             Requested size: 227.3026pt x 187.955pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3b.eps>
+(epstopdf)                    date: 2013-08-27 15:42:16
+(epstopdf)                    size: 1208178 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3b-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:37
+(epstopdf)                    size: 95049 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3b-ep
+s-converted-to.pdf Chapter-2/Figures/fig3b.eps>
+(epstopdf)             \includegraphics on input line 162.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3b-eps-converted-to.pdf, id=134, 658.46pt x 537.00626pt>
+File: Chapter-2/Figures/fig3b-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig3b-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3b-eps-converted-to.pdf used on i
+nput line 162.
+(pdftex.def)             Requested size: 230.46445pt x 187.955pt.
+
+Overfull \hbox (106.41705pt too wide) in paragraph at lines 160--164
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3c.eps>
+(epstopdf)                    date: 2013-08-27 15:44:18
+(epstopdf)                    size: 1127777 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3c-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:41
+(epstopdf)                    size: 87182 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3c-ep
+s-converted-to.pdf Chapter-2/Figures/fig3c.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3c-eps-converted-to.pdf, id=135, 658.46pt x 537.00626pt>
+File: Chapter-2/Figures/fig3c-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig3c-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3c-eps-converted-to.pdf used on i
+nput line 172.
+(pdftex.def)             Requested size: 230.46445pt x 187.955pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3d.eps>
+(epstopdf)                    date: 2013-08-27 15:45:12
+(epstopdf)                    size: 1821144 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3d-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:46
+(epstopdf)                    size: 124087 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3d-ep
+s-converted-to.pdf Chapter-2/Figures/fig3d.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3d-eps-converted-to.pdf, id=136, 658.46pt x 537.00626pt>
+File: Chapter-2/Figures/fig3d-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chapter-2/Figures/fig3d-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3d-eps-converted-to.pdf used on i
+nput line 172.
+(pdftex.def)             Requested size: 230.46445pt x 187.955pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig3e.eps>
+(epstopdf)                    date: 2013-08-27 15:49:16
+(epstopdf)                    size: 281092 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig3e-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-19 19:58:50
+(epstopdf)                    size: 51500 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig3e-ep
+s-converted-to.pdf Chapter-2/Figures/fig3e.eps>
+(epstopdf)             \includegraphics on input line 174.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig3e-eps-converted-to.pdf, id=137, 667.49374pt x 537.00626p
+t>
+File: Chapter-2/Figures/fig3e-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter-2/Figures/fig3e-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig3e-eps-converted-to.pdf used on i
+nput line 174.
+(pdftex.def)             Requested size: 233.62631pt x 187.955pt.
+
+Overfull \hbox (109.5789pt too wide) in paragraph at lines 170--175
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig4_cosled.eps>
+(epstopdf)                    date: 2013-07-20 22:31:43
+(epstopdf)                    size: 130863 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig4_cosled-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2015-01-19 19:58:54
+(epstopdf)                    size: 12983 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig4_cos
+led-eps-converted-to.pdf Chapter-2/Figures/fig4_cosled.eps>
+(epstopdf)             \includegraphics on input line 181.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig4_cosled-eps-converted-to.pdf, id=138, 361.35pt x 505.89p
+t>
+File: Chapter-2/Figures/fig4_cosled-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter-2/Figures/fig4_cosled-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig4_cosled-eps-converted-to.pdf use
+d on input line 181.
+(pdftex.def)             Requested size: 289.0804pt x 404.71254pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig5a_Tempdist.eps>
+(epstopdf)                    date: 2013-08-08 16:19:27
+(epstopdf)                    size: 124544 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig5a_Tempdist-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-01-19 19:58:58
+(epstopdf)                    size: 12052 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig5a_Te
+mpdist-eps-converted-to.pdf Chapter-2/Figures/fig5a_Tempdist.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig5a_Tempdist-eps-converted-to.pdf, id=139, 578.16pt x 433.
+62pt>
+File: Chapter-2/Figures/fig5a_Tempdist-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-2/Figures/fig5a_Tempdist-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig5a_Tempdist-eps-converted-to.pdf 
+used on input line 189.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig5b_Densdist.eps>
+(epstopdf)                    date: 2013-08-08 16:19:30
+(epstopdf)                    size: 130160 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig5b_Densdist-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-01-19 19:59:02
+(epstopdf)                    size: 13788 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig5b_De
+nsdist-eps-converted-to.pdf Chapter-2/Figures/fig5b_Densdist.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig5b_Densdist-eps-converted-to.pdf, id=140, 578.16pt x 433.
+62pt>
+File: Chapter-2/Figures/fig5b_Densdist-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-2/Figures/fig5b_Densdist-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig5b_Densdist-eps-converted-to.pdf 
+used on input line 189.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig5c_BACDdist.eps>
+(epstopdf)                    date: 2013-08-08 16:19:34
+(epstopdf)                    size: 131933 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig5c_BACDdist-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-01-19 19:59:05
+(epstopdf)                    size: 13371 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig5c_BA
+CDdist-eps-converted-to.pdf Chapter-2/Figures/fig5c_BACDdist.eps>
+(epstopdf)             \includegraphics on input line 191.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig5c_BACDdist-eps-converted-to.pdf, id=141, 578.16pt x 433.
+62pt>
+File: Chapter-2/Figures/fig5c_BACDdist-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-2/Figures/fig5c_BACDdist-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig5c_BACDdist-eps-converted-to.pdf 
+used on input line 191.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+
+Overfull \hbox (142.85419pt too wide) in paragraph at lines 188--191
+ []$[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-2/Figures/fig6_contour.eps>
+(epstopdf)                    date: 2013-07-22 22:30:31
+(epstopdf)                    size: 151453 bytes
+(epstopdf)             Output file: <Chapter-2/Figures/fig6_contour-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2015-01-19 19:59:09
+(epstopdf)                    size: 22795 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-2/Figures/fig6_con
+tour-eps-converted-to.pdf Chapter-2/Figures/fig6_contour.eps>
+(epstopdf)             \includegraphics on input line 198.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-2/Figures/fig6_contour-eps-converted-to.pdf, id=142, 578.16pt x 433.62
+pt>
+File: Chapter-2/Figures/fig6_contour-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter-2/Figures/fig6_contour-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-2/Figures/fig6_contour-eps-converted-to.pdf us
+ed on input line 198.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (65.04364pt too wide) in paragraph at lines 198--199
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (135.43263pt too wide) in paragraph at lines 212--224
+ [][] 
+ []
+
+
+Overfull \hbox (135.43263pt too wide) in paragraph at lines 225--225
+ []$[]$ 
+ []
+
+
+Overfull \hbox (135.43263pt too wide) in paragraph at lines 225--225
+ []$[]$ 
+ []
+
+
+Overfull \hbox (135.43263pt too wide) in paragraph at lines 225--225
+ []$[]$ 
+ []
+
+
+Overfull \hbox (135.43263pt too wide) in paragraph at lines 225--225
+ []$[]$ 
+ []
+
+Table 2.1 has been set to width 532.91762pt
+./Chapter-2/Chapter-2.tex:229: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.229 \tablewidth
+                 {0pt}
+? stop
+OK, entering \scrollmode...
+./Chapter-2/Chapter-2.tex:229: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.229 \tablewidth
+                 {0pt}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:229: Arithmetic overflow.
+<recently read> \dimen@ii 
+                          
+l.229 \tablewidth
+                 {0pt}
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+./Chapter-2/Chapter-2.tex:233: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.233 \startdata
+                
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Chapter-2/Chapter-2.tex:233: Undefined control sequence.
+\latex@xfloat ...vf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.233 \startdata
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapter-2/Chapter-2.tex:233: Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.233 \startdata
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:233: Undefined control sequence.
+\@halignto ->\@to 
+                  \pt@width 
+l.233 \startdata
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapter-2/Chapter-2.tex:233: Missing { inserted.
+<to be read again> 
+                   \pt@width 
+l.233 \startdata
+                
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./Chapter-2/Chapter-2.tex:233: Missing number, treated as zero.
+<to be read again> 
+                   \bgroup 
+l.233 \startdata
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:233: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \bgroup 
+l.233 \startdata
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:233: Missing } inserted.
+<inserted text> 
+                }
+l.233 \startdata
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Chapter-2/Chapter-2.tex:233: Missing number, treated as zero.
+<to be read again> 
+                   \bgroup 
+l.233 \startdata
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:233: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \bgroup 
+l.233 \startdata
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:233: Missing } inserted.
+<inserted text> 
+                }
+l.233 \startdata
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Chapter-2/Chapter-2.tex:234: Missing number, treated as zero.
+<to be read again> 
+                   \bgroup 
+l.234 V
+       V 114E	&	0.13 $\pm$ 0.05	& 	0.99 $\pm$ 0.28	&0.95 $\pm$ 0.27 & 0.93 $...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:234: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \bgroup 
+l.234 V
+       V 114E	&	0.13 $\pm$ 0.05	& 	0.99 $\pm$ 0.28	&0.95 $\pm$ 0.27 & 0.93 $...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:234: Missing } inserted.
+<inserted text> 
+                }
+l.234 VV 114E	&
+               	0.13 $\pm$ 0.05	& 	0.99 $\pm$ 0.28	&0.95 $\pm$ 0.27 & 0.93 $...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Chapter-2/Chapter-2.tex:235: Missing number, treated as zero.
+<to be read again> 
+                   \bgroup 
+l.235 V
+       V 114C&	$<$ 0.03\tablenotemark{d} &0.92$\pm$0.26 &0.74$\pm$0.21 &0.89...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:235: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \bgroup 
+l.235 V
+       V 114C&	$<$ 0.03\tablenotemark{d} &0.92$\pm$0.26 &0.74$\pm$0.21 &0.89...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:235: Missing } inserted.
+<inserted text> 
+                }
+l.235 VV 114C&
+              	$<$ 0.03\tablenotemark{d} &0.92$\pm$0.26 &0.74$\pm$0.21 &0.89...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Chapter-2/Chapter-2.tex:236: Missing number, treated as zero.
+<to be read again> 
+                   \bgroup 
+l.236 V
+       V 114W	&	$<$ 0.04\tablenotemark{d} &1.01$\pm$0.28 &0.57$\pm$0.16 &0.9...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:236: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \bgroup 
+l.236 V
+       V 114W	&	$<$ 0.04\tablenotemark{d} &1.01$\pm$0.28 &0.57$\pm$0.16 &0.9...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapter-2/Chapter-2.tex:236: Missing } inserted.
+<inserted text> 
+                }
+l.236 VV 114W	&
+               	$<$ 0.04\tablenotemark{d} &1.01$\pm$0.28 &0.57$\pm$0.16 &0.9...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (165.52078pt too wide) in paragraph at lines 233--243
+ [][] 
+ []
+
+
+Overfull \hbox (165.52078pt too wide) in paragraph at lines 243--243
+ []$[]$ 
+ []
+
+
+Overfull \hbox (165.52078pt too wide) in paragraph at lines 243--243
+ []$[]$ 
+ []
+
+
+Overfull \hbox (165.52078pt too wide) in paragraph at lines 243--243
+ []$[]$ 
+ []
+
+
+Overfull \hbox (165.52078pt too wide) in paragraph at lines 243--243
+ []$[]$ 
+ []
+
+
+Overfull \hbox (165.52078pt too wide) in paragraph at lines 243--243
+ []$[]$ 
+ []
+
+Table 2.2 has been set to width 563.00577pt
+
+./Chapter-2/Chapter-2.tex:252: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 \startdata
+                
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Chapter-2/Chapter-2.tex:252: Undefined control sequence.
+\latex@xfloat ...vf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.252 \startdata
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapter-2/Chapter-2.tex:252: Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.252 \startdata
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+Overfull \hbox (123.35757pt too wide) in paragraph at lines 252--261
+ [][] 
+ []
+
+
+Overfull \hbox (123.35757pt too wide) in paragraph at lines 261--261
+ []$[]$ 
+ []
+
+
+Overfull \hbox (123.35757pt too wide) in paragraph at lines 261--261
+ []$[]$ 
+ []
+
+
+Overfull \hbox (123.35757pt too wide) in paragraph at lines 261--261
+ []$[]$ 
+ []
+
+Table 2.3 has been set to width 520.84256pt
+
+./Chapter-2/Chapter-2.tex:270: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.270 \startdata
+                
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Chapter-2/Chapter-2.tex:270: Undefined control sequence.
+\latex@xfloat ...vf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.270 \startdata
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapter-2/Chapter-2.tex:270: Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.270 \startdata
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Table 2.4 has been set to width 305.23596pt
+./Chapter-2/Chapter-2.tex:288: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.288 \begin{thebibliography}{37}
+                                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Chapter-2/Chapter-2.tex:288: Missing } inserted.
+<inserted text> 
+                }
+l.288 \begin{thebibliography}{37}
+                                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[21] [22 <./Chapter-2/Figures/fig1a-eps-converted-to.pdf> <./Chapter-2/Figures/
+fig1b-eps-converted-to.pdf> <./Chapter-2/Figures/fig1c-eps-converted-to.pdf> <.
+/Chapter-2/Figures/fig1d-eps-converted-to.pdf>] [23 <./Chapter-2/Figures/fig2.p
+df>] [24 <./Chapter-2/Figures/fig3f-eps-converted-to.pdf> <./Chapter-2/Figures/
+fig3a-eps-converted-to.pdf> <./Chapter-2/Figures/fig3g-eps-converted-to.pdf> <.
+/Chapter-2/Figures/fig3b-eps-converted-to.pdf>] [25 <./Chapter-2/Figures/fig3c-
+eps-converted-to.pdf> <./Chapter-2/Figures/fig3d-eps-converted-to.pdf> <./Chapt
+er-2/Figures/fig3e-eps-converted-to.pdf>] [26 <./Chapter-2/Figures/fig4_cosled-
+eps-converted-to.pdf>] [27 <./Chapter-2/Figures/fig5a_Tempdist-eps-converted-to
+.pdf> <./Chapter-2/Figures/fig5b_Densdist-eps-converted-to.pdf> <./Chapter-2/Fi
+gures/fig5c_BACDdist-eps-converted-to.pdf>] [28 <./Chapter-2/Figures/fig6_conto
+ur-eps-converted-to.pdf>] [29] [30
+
+] [31]
+
+./Chapter-2/Chapter-2.tex:431: LaTeX Error: \begin{deluxetable} on input line 2
+26 ended by \end{thebibliography}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.431 \end{thebibliography}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [32]
+\openout2 = `Chapter-3/Chapter-3.aux'.
+
+ (./Chapter-3/Chapter-3.tex
+Chapter 3.
+[33
+
+
+
+]
+Overfull \hbox (2.17413pt too wide) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/12 In this Let-ter, we present un-pub-lished archival ALMA and n
+ew CARMA
+ []
+
+[34] [35] [36]
+Overfull \hbox (23.84937pt too wide) in paragraph at lines 97--106
+\OT1/cmr/m/n/12 0), $\OML/cmm/m/it/12 R[]$ \OT1/cmr/m/n/12 = $[]$CO/$[]$CO $\OM
+L/cmm/m/it/12 J$\OT1/cmr/m/n/12 =1-0, $\OML/cmm/m/it/12 R[]$ \OT1/cmr/m/n/12 = 
+$[]$CO/$[]$CO $\OML/cmm/m/it/12 J$\OT1/cmr/m/n/12 =2-1, $\OML/cmm/m/it/12 H[]$ 
+\OT1/cmr/m/n/12 = HCO$[]$ $\OML/cmm/m/it/12 J$\OT1/cmr/m/n/12 =4$\OMS/cmsy/m/n/
+12 ^^@$\OT1/cmr/m/n/12 3/$[]$CO
+ []
+
+[37] [38]
+Overfull \hbox (47.1092pt too wide) in paragraph at lines 128--134
+\OT1/cmr/bx/n/12 ($\OML/cmm/m/it/12 []$ \OT1/cmr/bx/n/12 = 04$[]$34$[]$00$[]$.
+020, $\OML/cmm/m/it/12 ^^N[]$ \OT1/cmr/bx/n/12 = -08$[]$34[]45[].844), east ($\
+OML/cmm/m/it/12 []$ \OT1/cmr/bx/n/12 = 04$[]$34$[]$00$[]$.080,
+ []
+
+[39] [40] [41] [42] [43] [44] [45
+
+] [46]
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1a_co10.eps>
+(epstopdf)                    date: 2014-08-21 12:36:34
+(epstopdf)                    size: 1548993 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1a_co10-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:22
+(epstopdf)                    size: 140632 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1a_co
+10-eps-converted-to.pdf Chapter-3/Figures/fig1a_co10.eps>
+(epstopdf)             \includegraphics on input line 321.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1a_co10-eps-converted-to.pdf, id=495, 710.655pt x 586.19p
+t>
+File: Chapter-3/Figures/fig1a_co10-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter-3/Figures/fig1a_co10-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1a_co10-eps-converted-to.pdf used
+ on input line 321.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1b_co21f.eps>
+(epstopdf)                    date: 2014-10-10 16:09:51
+(epstopdf)                    size: 1871128 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1b_co21f-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:24
+(epstopdf)                    size: 194674 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1b_co
+21f-eps-converted-to.pdf Chapter-3/Figures/fig1b_co21f.eps>
+(epstopdf)             \includegraphics on input line 321.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1b_co21f-eps-converted-to.pdf, id=496, 710.655pt x 586.19
+pt>
+File: Chapter-3/Figures/fig1b_co21f-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter-3/Figures/fig1b_co21f-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1b_co21f-eps-converted-to.pdf use
+d on input line 321.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1c_co65.eps>
+(epstopdf)                    date: 2014-09-25 23:31:42
+(epstopdf)                    size: 803159 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1c_co65-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:26
+(epstopdf)                    size: 100523 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1c_co
+65-eps-converted-to.pdf Chapter-3/Figures/fig1c_co65.eps>
+(epstopdf)             \includegraphics on input line 321.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1c_co65-eps-converted-to.pdf, id=497, 710.655pt x 586.19p
+t>
+File: Chapter-3/Figures/fig1c_co65-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use Chapter-3/Figures/fig1c_co65-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1c_co65-eps-converted-to.pdf used
+ on input line 321.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1d_co1310.eps>
+(epstopdf)                    date: 2014-08-21 13:47:20
+(epstopdf)                    size: 1662517 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1d_co1310-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:27
+(epstopdf)                    size: 149064 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1d_co
+1310-eps-converted-to.pdf Chapter-3/Figures/fig1d_co1310.eps>
+(epstopdf)             \includegraphics on input line 322.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1d_co1310-eps-converted-to.pdf, id=498, 710.655pt x 586.1
+9pt>
+File: Chapter-3/Figures/fig1d_co1310-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter-3/Figures/fig1d_co1310-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1d_co1310-eps-converted-to.pdf us
+ed on input line 322.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1e_co1321.eps>
+(epstopdf)                    date: 2014-08-21 13:46:59
+(epstopdf)                    size: 716371 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1e_co1321-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:29
+(epstopdf)                    size: 73368 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1e_co
+1321-eps-converted-to.pdf Chapter-3/Figures/fig1e_co1321.eps>
+(epstopdf)             \includegraphics on input line 322.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1e_co1321-eps-converted-to.pdf, id=499, 710.655pt x 586.1
+9pt>
+File: Chapter-3/Figures/fig1e_co1321-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter-3/Figures/fig1e_co1321-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1e_co1321-eps-converted-to.pdf us
+ed on input line 322.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1f_hco43.eps>
+(epstopdf)                    date: 2014-09-25 23:37:33
+(epstopdf)                    size: 1760288 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1f_hco43-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:31
+(epstopdf)                    size: 233697 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1f_hc
+o43-eps-converted-to.pdf Chapter-3/Figures/fig1f_hco43.eps>
+(epstopdf)             \includegraphics on input line 322.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1f_hco43-eps-converted-to.pdf, id=500, 710.655pt x 586.19
+pt>
+File: Chapter-3/Figures/fig1f_hco43-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter-3/Figures/fig1f_hco43-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1f_hco43-eps-converted-to.pdf use
+d on input line 322.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1g_co32f.eps>
+(epstopdf)                    date: 2014-08-21 12:33:52
+(epstopdf)                    size: 2126512 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1g_co32f-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:32
+(epstopdf)                    size: 303780 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1g_co
+32f-eps-converted-to.pdf Chapter-3/Figures/fig1g_co32f.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1g_co32f-eps-converted-to.pdf, id=501, 710.655pt x 586.19
+pt>
+File: Chapter-3/Figures/fig1g_co32f-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter-3/Figures/fig1g_co32f-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1g_co32f-eps-converted-to.pdf use
+d on input line 326.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1h_hst.eps>
+(epstopdf)                    date: 2014-10-07 17:26:41
+(epstopdf)                    size: 26358157 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1h_hst-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:35
+(epstopdf)                    size: 742281 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1h_hs
+t-eps-converted-to.pdf Chapter-3/Figures/fig1h_hst.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1h_hst-eps-converted-to.pdf, id=502, 710.655pt x 586.19pt
+>
+File: Chapter-3/Figures/fig1h_hst-eps-converted-to.pdf Graphic file (type pdf)
+ <use Chapter-3/Figures/fig1h_hst-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1h_hst-eps-converted-to.pdf used 
+on input line 326.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig1i_co435.eps>
+(epstopdf)                    date: 2014-10-09 21:37:11
+(epstopdf)                    size: 592789 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig1i_co435-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:36
+(epstopdf)                    size: 83361 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig1i_co
+435-eps-converted-to.pdf Chapter-3/Figures/fig1i_co435.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig1i_co435-eps-converted-to.pdf, id=503, 710.655pt x 586.19
+pt>
+File: Chapter-3/Figures/fig1i_co435-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use Chapter-3/Figures/fig1i_co435-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig1i_co435-eps-converted-to.pdf use
+d on input line 326.
+(pdftex.def)             Requested size: 177.66331pt x 146.54713pt.
+
+Overfull \hbox (133.27861pt too wide) in paragraph at lines 320--328
+ []$[]$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 78.56317pt on input line 335.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2a_co2110.eps>
+(epstopdf)                    date: 2014-09-25 23:52:18
+(epstopdf)                    size: 1083050 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2a_co2110-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:38
+(epstopdf)                    size: 111083 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2a_co
+2110-eps-converted-to.pdf Chapter-3/Figures/fig2a_co2110.eps>
+(epstopdf)             \includegraphics on input line 340.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2a_co2110-eps-converted-to.pdf, id=504, 739.76375pt x 578
+.16pt>
+File: Chapter-3/Figures/fig2a_co2110-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter-3/Figures/fig2a_co2110-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2a_co2110-eps-converted-to.pdf us
+ed on input line 340.
+(pdftex.def)             Requested size: 184.94048pt x 144.53964pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2b_co3221.eps>
+(epstopdf)                    date: 2014-09-25 23:52:36
+(epstopdf)                    size: 881244 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2b_co3221-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:39
+(epstopdf)                    size: 94114 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2b_co
+3221-eps-converted-to.pdf Chapter-3/Figures/fig2b_co3221.eps>
+(epstopdf)             \includegraphics on input line 340.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2b_co3221-eps-converted-to.pdf, id=505, 739.76375pt x 578
+.16pt>
+File: Chapter-3/Figures/fig2b_co3221-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter-3/Figures/fig2b_co3221-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2b_co3221-eps-converted-to.pdf us
+ed on input line 340.
+(pdftex.def)             Requested size: 184.94048pt x 144.53964pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2c_co6532.eps>
+(epstopdf)                    date: 2014-09-25 23:52:54
+(epstopdf)                    size: 693521 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2c_co6532-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:41
+(epstopdf)                    size: 91184 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2c_co
+6532-eps-converted-to.pdf Chapter-3/Figures/fig2c_co6532.eps>
+(epstopdf)             \includegraphics on input line 340.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2c_co6532-eps-converted-to.pdf, id=506, 739.76375pt x 578
+.16pt>
+File: Chapter-3/Figures/fig2c_co6532-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Chapter-3/Figures/fig2c_co6532-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2c_co6532-eps-converted-to.pdf us
+ed on input line 340.
+(pdftex.def)             Requested size: 184.94048pt x 144.53964pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2d_co121310.eps>
+(epstopdf)                    date: 2014-09-25 23:53:50
+(epstopdf)                    size: 284737 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2d_co121310-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:43
+(epstopdf)                    size: 65639 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2d_co
+121310-eps-converted-to.pdf Chapter-3/Figures/fig2d_co121310.eps>
+(epstopdf)             \includegraphics on input line 341.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2d_co121310-eps-converted-to.pdf, id=507, 725.71124pt x 5
+78.16pt>
+File: Chapter-3/Figures/fig2d_co121310-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-3/Figures/fig2d_co121310-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2d_co121310-eps-converted-to.pdf 
+used on input line 341.
+(pdftex.def)             Requested size: 181.42737pt x 144.53964pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2e_co121321.eps>
+(epstopdf)                    date: 2014-09-25 23:54:08
+(epstopdf)                    size: 298243 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2e_co121321-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:44
+(epstopdf)                    size: 65092 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2e_co
+121321-eps-converted-to.pdf Chapter-3/Figures/fig2e_co121321.eps>
+(epstopdf)             \includegraphics on input line 341.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2e_co121321-eps-converted-to.pdf, id=508, 739.76375pt x 5
+78.16pt>
+File: Chapter-3/Figures/fig2e_co121321-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-3/Figures/fig2e_co121321-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2e_co121321-eps-converted-to.pdf 
+used on input line 341.
+(pdftex.def)             Requested size: 184.94048pt x 144.53964pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2f_co132110.eps>
+(epstopdf)                    date: 2014-09-25 23:54:26
+(epstopdf)                    size: 284690 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2f_co132110-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:46
+(epstopdf)                    size: 65506 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2f_co
+132110-eps-converted-to.pdf Chapter-3/Figures/fig2f_co132110.eps>
+(epstopdf)             \includegraphics on input line 341.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2f_co132110-eps-converted-to.pdf, id=509, 730.73pt x 578.
+16pt>
+File: Chapter-3/Figures/fig2f_co132110-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-3/Figures/fig2f_co132110-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2f_co132110-eps-converted-to.pdf 
+used on input line 341.
+(pdftex.def)             Requested size: 182.68205pt x 144.53964pt.
+
+Overfull \hbox (147.88264pt too wide) in paragraph at lines 339--343
+ []$[]$ 
+ []
+
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2g_hco4332.eps>
+(epstopdf)                    date: 2014-09-25 23:53:32
+(epstopdf)                    size: 317704 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2g_hco4332-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:48
+(epstopdf)                    size: 65660 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2g_hc
+o4332-eps-converted-to.pdf Chapter-3/Figures/fig2g_hco4332.eps>
+(epstopdf)             \includegraphics on input line 345.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2g_hco4332-eps-converted-to.pdf, id=510, 739.76375pt x 57
+8.16pt>
+File: Chapter-3/Figures/fig2g_hco4332-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter-3/Figures/fig2g_hco4332-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2g_hco4332-eps-converted-to.pdf u
+sed on input line 345.
+(pdftex.def)             Requested size: 184.94048pt x 144.53964pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig2h_hco4365.eps>
+(epstopdf)                    date: 2014-09-25 23:53:13
+(epstopdf)                    size: 308887 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig2h_hco4365-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:49
+(epstopdf)                    size: 65127 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig2h_hc
+o4365-eps-converted-to.pdf Chapter-3/Figures/fig2h_hco4365.eps>
+(epstopdf)             \includegraphics on input line 345.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig2h_hco4365-eps-converted-to.pdf, id=511, 739.76375pt x 57
+8.16pt>
+File: Chapter-3/Figures/fig2h_hco4365-eps-converted-to.pdf Graphic file (type p
+df)
+ <use Chapter-3/Figures/fig2h_hco4365-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig2h_hco4365-eps-converted-to.pdf u
+sed on input line 345.
+(pdftex.def)             Requested size: 184.94048pt x 144.53964pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig3a_Tempdist.eps>
+(epstopdf)                    date: 2014-09-29 21:32:02
+(epstopdf)                    size: 133383 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig3a_Tempdist-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:50
+(epstopdf)                    size: 15115 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig3a_Te
+mpdist-eps-converted-to.pdf Chapter-3/Figures/fig3a_Tempdist.eps>
+(epstopdf)             \includegraphics on input line 360.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig3a_Tempdist-eps-converted-to.pdf, id=512, 578.16pt x 433.
+62pt>
+File: Chapter-3/Figures/fig3a_Tempdist-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-3/Figures/fig3a_Tempdist-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig3a_Tempdist-eps-converted-to.pdf 
+used on input line 360.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig3b_Densdist.eps>
+(epstopdf)                    date: 2014-09-29 21:32:09
+(epstopdf)                    size: 132656 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig3b_Densdist-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:52
+(epstopdf)                    size: 15801 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig3b_De
+nsdist-eps-converted-to.pdf Chapter-3/Figures/fig3b_Densdist.eps>
+(epstopdf)             \includegraphics on input line 360.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig3b_Densdist-eps-converted-to.pdf, id=513, 578.16pt x 433.
+62pt>
+File: Chapter-3/Figures/fig3b_Densdist-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-3/Figures/fig3b_Densdist-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig3b_Densdist-eps-converted-to.pdf 
+used on input line 360.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig3c_BACDdist.eps>
+(epstopdf)                    date: 2014-09-29 21:32:21
+(epstopdf)                    size: 131069 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig3c_BACDdist-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:53
+(epstopdf)                    size: 14607 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig3c_BA
+CDdist-eps-converted-to.pdf Chapter-3/Figures/fig3c_BACDdist.eps>
+(epstopdf)             \includegraphics on input line 361.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig3c_BACDdist-eps-converted-to.pdf, id=514, 578.16pt x 433.
+62pt>
+File: Chapter-3/Figures/fig3c_BACDdist-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use Chapter-3/Figures/fig3c_BACDdist-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig3c_BACDdist-eps-converted-to.pdf 
+used on input line 361.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig3d_east_contour.eps>
+(epstopdf)                    date: 2014-09-15 21:13:53
+(epstopdf)                    size: 158093 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig3d_east_contour-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:54
+(epstopdf)                    size: 24143 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig3d_ea
+st_contour-eps-converted-to.pdf Chapter-3/Figures/fig3d_east_contour.eps>
+(epstopdf)             \includegraphics on input line 361.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig3d_east_contour-eps-converted-to.pdf, id=515, 578.16pt x 
+433.62pt>
+File: Chapter-3/Figures/fig3d_east_contour-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use Chapter-3/Figures/fig3d_east_contour-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig3d_east_contour-eps-converted-to.
+pdf used on input line 361.
+(pdftex.def)             Requested size: 231.2599pt x 173.44492pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig3e_east_sled.eps>
+(epstopdf)                    date: 2014-09-29 21:18:16
+(epstopdf)                    size: 131086 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig3e_east_sled-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:55
+(epstopdf)                    size: 13188 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig3e_ea
+st_sled-eps-converted-to.pdf Chapter-3/Figures/fig3e_east_sled.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig3e_east_sled-eps-converted-to.pdf, id=516, 361.35pt x 505
+.89pt>
+File: Chapter-3/Figures/fig3e_east_sled-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter-3/Figures/fig3e_east_sled-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig3e_east_sled-eps-converted-to.pdf
+ used on input line 362.
+(pdftex.def)             Requested size: 144.53743pt x 202.3524pt.
+Package epstopdf Info: Source file: <Chapter-3/Figures/fig3f_hole_sled.eps>
+(epstopdf)                    date: 2014-09-29 21:16:02
+(epstopdf)                    size: 133247 bytes
+(epstopdf)             Output file: <Chapter-3/Figures/fig3f_hole_sled-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-10-25 22:58:56
+(epstopdf)                    size: 14038 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chapter-3/Figures/fig3f_ho
+le_sled-eps-converted-to.pdf Chapter-3/Figures/fig3f_hole_sled.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chapter-3/Figures/fig3f_hole_sled-eps-converted-to.pdf, id=517, 361.35pt x 505
+.89pt>
+File: Chapter-3/Figures/fig3f_hole_sled-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use Chapter-3/Figures/fig3f_hole_sled-eps-converted-to.pdf>
+Package pdftex.def Info: Chapter-3/Figures/fig3f_hole_sled-eps-converted-to.pdf
+ used on input line 362.
+(pdftex.def)             Requested size: 144.53743pt x 202.3524pt.
+
+Overfull \hbox (51.96732pt too wide) in paragraph at lines 359--365
+ []$[]$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 86.664pt on input line 374.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47]
+Overfull \hbox (74.365pt too wide) in paragraph at lines 385--402
+ [][] 
+ []
+
+
+Overfull \hbox (74.365pt too wide) in paragraph at lines 403--403
+ []$[]$ 
+ []
+
+
+Overfull \hbox (74.365pt too wide) in paragraph at lines 403--403
+ []$[]$ 
+ []
+
+
+Overfull \hbox (74.365pt too wide) in paragraph at lines 403--403
+ []$[]$ 
+ []
+
+Table 3.1 has been set to width 471.84999pt
+
+Overfull \hbox (127.56725pt too wide) in paragraph at lines 417--470
+ [][] 
+ []
+
+Table 3.2 has been set to width 525.05223pt
+) [48] [49 <./Chapter-3/Figures/fig1a_co10-eps-converted-to.pdf> <./Chapter-3/F
+igures/fig1b_co21f-eps-converted-to.pdf> <./Chapter-3/Figures/fig1c_co65-eps-co
+nverted-to.pdf> <./Chapter-3/Figures/fig1d_co1310-eps-converted-to.pdf> <./Chap
+ter-3/Figures/fig1e_co1321-eps-converted-to.pdf> <./Chapter-3/Figures/fig1f_hco
+43-eps-converted-to.pdf> <./Chapter-3/Figures/fig1g_co32f-eps-converted-to.pdf>
+ <./Chapter-3/Figures/fig1h_hst-eps-converted-to.pdf> <./Chapter-3/Figures/fig1
+i_co435-eps-converted-to.pdf>] [50 <./Chapter-3/Figures/fig2a_co2110-eps-conver
+ted-to.pdf> <./Chapter-3/Figures/fig2b_co3221-eps-converted-to.pdf> <./Chapter-
+3/Figures/fig2c_co6532-eps-converted-to.pdf> <./Chapter-3/Figures/fig2d_co12131
+0-eps-converted-to.pdf> <./Chapter-3/Figures/fig2e_co121321-eps-converted-to.pd
+f> <./Chapter-3/Figures/fig2f_co132110-eps-converted-to.pdf> <./Chapter-3/Figur
+es/fig2g_hco4332-eps-converted-to.pdf> <./Chapter-3/Figures/fig2h_hco4365-eps-c
+onverted-to.pdf>] [51 <./Chapter-3/Figures/fig3a_Tempdist-eps-converted-to.pdf>
+ <./Chapter-3/Figures/fig3b_Densdist-eps-converted-to.pdf> <./Chapter-3/Figures
+/fig3c_BACDdist-eps-converted-to.pdf> <./Chapter-3/Figures/fig3d_east_contour-e
+ps-converted-to.pdf> <./Chapter-3/Figures/fig3e_east_sled-eps-converted-to.pdf>
+ <./Chapter-3/Figures/fig3f_hole_sled-eps-converted-to.pdf>]
+\openout2 = `Chapter-4/Chapter-4.aux'.
+
+
+(./Chapter-4/Chapter-4.tex
+Chapter 4.
+) [52
+
+
+
+]
+No file thesis.bbl.
+(./thesis.aux (./Chapter-1/Chapter-1.aux) (./Chapter-2/Chapter-2.aux)
+(./Chapter-3/Chapter-3.aux) (./Chapter-4/Chapter-4.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 294 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 4747 strings out of 493117
+ 69940 string characters out of 6135433
+ 153174 words of memory out of 5000000
+ 7969 multiletter control sequences out of 15000+600000
+ 33207 words of font info for 113 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,14n,45p,1555b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/ti
+mes/utmr8a.pfb>
+Output written on thesis.pdf (65 pages, 4068498 bytes).
+PDF statistics:
+ 946 PDF objects out of 1000 (max. 8388607)
+ 737 compressed objects within 8 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+

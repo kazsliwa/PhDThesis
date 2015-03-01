@@ -1,0 +1,35 @@
+\contentsline {chapter}{Abstract}{iii}
+\contentsline {chapter}{Co-Authorship}{vi}
+\contentsline {chapter}{Acknowledgments}{vii}
+\contentsline {chapter}{List of Figures}{x}
+\contentsline {chapter}{List of Tables}{xi}
+\contentsline {chapter}{List of Acronyms}{xii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Luminous Infrared Galaxies with the Submillimeter Array. IV. $^{12}$CO $J$=6-5 Observations of VV 114}{2}
+\contentsline {section}{\numberline {2.1}Introduction}{2}
+\contentsline {section}{\numberline {2.2}Observations and Data Reduction}{5}
+\contentsline {subsection}{\numberline {2.2.1}$^{12}$CO $J$=6-5\ Submillimeter Array Data}{5}
+\contentsline {subsection}{\numberline {2.2.2}Additional CO Data}{6}
+\contentsline {section}{\numberline {2.3}Line Ratio Maps}{8}
+\contentsline {section}{\numberline {2.4}$^{12}$CO $J$=6-5\ Emission}{9}
+\contentsline {section}{\numberline {2.5}Molecular Gas Physical Conditions}{11}
+\contentsline {subsection}{\numberline {2.5.1}Radiative Transfer Model}{11}
+\contentsline {subsection}{\numberline {2.5.2}Likelihood Analysis}{12}
+\contentsline {subsection}{\numberline {2.5.3}Modeling Results}{13}
+\contentsline {section}{\numberline {2.6}Discussion}{14}
+\contentsline {subsection}{\numberline {2.6.1}Line Ratios}{14}
+\contentsline {subsection}{\numberline {2.6.2}Radiative Transfer Modeling Results}{15}
+\contentsline {subsection}{\numberline {2.6.3}$^{13}$CO to $^{12}$CO Abundance: [$^{12}$CO]/[$^{13}$CO]}{17}
+\contentsline {subsection}{\numberline {2.6.4}CO-to-H$_{2}$ Conversion Factor: $\alpha _{CO}$}{18}
+\contentsline {section}{\numberline {2.7}Conclusions}{19}
+\contentsline {chapter}{\numberline {3}Around the Ring We Go: The Cold, Dense Ring of Molecular Gas in NGC 1614}{33}
+\contentsline {section}{\numberline {3.1}Introduction}{33}
+\contentsline {section}{\numberline {3.2}Observations}{35}
+\contentsline {subsection}{\numberline {3.2.1}CARMA}{35}
+\contentsline {subsection}{\numberline {3.2.2}SMA}{35}
+\contentsline {subsection}{\numberline {3.2.3}ALMA}{36}
+\contentsline {subsection}{\numberline {3.2.4}Line Ratios}{37}
+\contentsline {section}{\numberline {3.3}Morphology}{37}
+\contentsline {section}{\numberline {3.4}Molecular Gas Physical Conditions}{39}
+\contentsline {section}{\numberline {3.5}CO-to-H$_{2}$ Conversion Factor}{41}
+\contentsline {chapter}{\numberline {4}Around the Ring We Go: The Cold, Dense Ring of Molecular Gas in NGC 1614}{52}

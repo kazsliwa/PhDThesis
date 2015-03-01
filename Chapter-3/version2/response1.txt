@@ -1,0 +1,43 @@
+Dear Referee,
+
+Thank you for the comments and suggestions. I do apologize for the slow response. I am in the middle of applying for postdoc positions. I have addressed all the comments. I have bolded all the changes I have made to the text. Below are our responses:
+
+1. Section 3, paragraph 2 
+The authors proceed discussion, by comparing molecular gas emission and 
+dust lane structures in the optical, but I cannot understand 
+which particular features in the ALMA molecular gas data and 
+HST images are discussed. It is more kind to readers, if arrows are 
+inserted for the features which the authors are discussing 
+in Figure 1 (bottom middle).
+Response: I have added arrows and annotated the HST panel in Figure 1.
+
+2. Section 4, paragraph 3
+The authors investigate physical conditions at five positions: 
+north, south, east, and west parts of the ring, and the nucleus. 
+However, the information of the location (coordinate) and size 
+used for this investigation is missing. This information should 
+be provided.
+Response: I added the J2000 coordinates to the text. I also added green crosses on the CO J=2-1 map in Figure 1. 
+
+3. Figure 1, caption
+I guess the elliptical patterns at the bottom left part of each figure 
+represents the beam size of each molecular line, but the explanation 
+is missing in the Figure 1 caption.
+Response: I added text to the caption in Figure 1 to address this.
+
+4. Section 2.3, Table 1
+The authors estimate the 440 um continuum flux. 
+Is it consistent between ALMA USB and LSB data? 
+A brief description is desirable. 
+Response: The continuum is consistent in structure and flux in the USB and LSB. I added 3 sentences to reflect this. Note that I changed 440um to 435um_rest. 
+
+5. Possible typos
+Section 3, paragraph 3, line 2
+440 u -> 440 um (?)
+Section 5, paragraph 4, line 7 from the end
+of1.1-1.4 -> of 1.1-1.4 (?)
+Response: Corrected.
+
+Sincerely,
+
+Kazimierz Sliwa
